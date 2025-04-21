@@ -1,0 +1,30 @@
+# Colab notebooks
+*.ipynb
+*.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Temporary files
+*.log
+*.tmp
+alert.mp3
+
+# Colab-specific
+sample_data/
+
+# Model files (optional, include if hosting externally)
+# models/cloudburst_model.weights.h5
+# models/rf_model.pkl
+
+# Project files to include
+!/content/app.py
+!/content/requirements.txt
+!/content/README.md
+!/content/.gitignore
+!/content/models/
+!/content/data/
