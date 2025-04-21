@@ -16,6 +16,8 @@ alert.mp3
 
 # Colab-specific
 sample_data/
+.config/
+.gradio/
 
 # Model files (optional, include if hosting externally)
 # models/cloudburst_model.weights.h5
